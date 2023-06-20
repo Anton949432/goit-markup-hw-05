@@ -775,7 +775,7 @@ a::after {
     margin-bottom: 24px;
 }
 
-.mod-five-input {
+.visually-hidden {
     visibility: hidden;
 }
 
@@ -868,4 +868,10 @@ input::placeholder {
 
 .mod-div-comment {
     margin-bottom: 16px;
+}
+
+.input:checked {
+    background-color: #404bbf;
+    border: none;
+    fill: #F4F4FD;
 }
