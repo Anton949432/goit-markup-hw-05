@@ -870,7 +870,7 @@ input::placeholder {
     margin-bottom: 16px;
 }
 
-.visually-hidden:checked+.mod-five-label {
+.visually-hidden:checked+.mod-five-label span {
     background-color: #404bbf;
     border: none;
     fill: #F4F4FD;
