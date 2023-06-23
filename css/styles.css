@@ -870,7 +870,7 @@ input::placeholder {
     margin-bottom: 16px;
 }
 
-.checkbox:checked+.mod-span>.mod-form-icon {
+.input-check:checked+.mod-five-label {
     background-color: #404bbf;
     border: none;
     fill: #F4F4FD;
